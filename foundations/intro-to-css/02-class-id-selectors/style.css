@@ -3,7 +3,15 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+.third-element-size {
+    font-size: 24px;
+}
+
 #unique-1 {
     color: #0000ff;
     font-size: 36px;
+}
+
+#fourth-element {
+    background-color: #90ee90;
 }
